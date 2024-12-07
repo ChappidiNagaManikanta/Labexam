@@ -1,2 +1,0 @@
-# Labexam
-spring boot
